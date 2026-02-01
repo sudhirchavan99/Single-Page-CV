@@ -18,11 +18,9 @@ This project is designed to showcase personal profile, skills, education, and wo
 - ✅ Single Page Resume Layout
 - ✅ ATS-Friendly Resume Format
 - ✅ SEO Optimized Meta Tags
-- ✅ Responsive Ready Structure
 - ✅ Clean & Simple Design
 - ✅ Lightweight & Fast Loading
 - ✅ Favicon Support
-- ✅ GitHub Pages Hosting Ready
 
 ---
 
@@ -50,3 +48,8 @@ This project uses modern HTML5 semantic elements:
 
 ## 📂 Project Folder Structure
 
+single-page-cv/
+│
+├── index.html
+├── favicon.png
+└── README.md
