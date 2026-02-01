@@ -5,13 +5,6 @@ This project is designed to showcase personal profile, skills, education, and wo
 
 ---
 
-## 🔗 Live Preview
-
-👉 Live Demo:   
-(Replace with your actual GitHub Pages URL)
-
----
-
 ## 📌 Project Features
 
 - ✅ Semantic HTML5 Structure
@@ -48,8 +41,8 @@ This project uses modern HTML5 semantic elements:
 
 ## 📂 Project Folder Structure
 
-single-page-cv/
-│
-├── index.html
-├── favicon.png
-└── README.md
+single-page-cv/<br>
+│<br>
+├── README.md<br>
+├── favicon.png<br>
+└── index.html
