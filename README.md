@@ -47,5 +47,5 @@ single-page-cv/<br>
 ├── favicon.png<br>
 └── index.html
 
-## 📎 Live Preview
-https://sudhirchavan99.github.io/Single-Page-CV/
+## 📎 Project Code URL
+[Click here to view code <> ](https://github.com/sudhirchavan99/Single-Page-CV/blob/1331d6da605cf61db0ae9a6604e48557a1c69d91/index.html)
